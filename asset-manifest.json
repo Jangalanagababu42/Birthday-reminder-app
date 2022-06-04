@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/Birthday-reminder-app/static/css/main.c0f932e9.chunk.css",
+    "main.js": "/Birthday-reminder-app/static/js/main.d7992e35.chunk.js",
+    "main.js.map": "/Birthday-reminder-app/static/js/main.d7992e35.chunk.js.map",
+    "runtime-main.js": "/Birthday-reminder-app/static/js/runtime-main.1590976c.js",
+    "runtime-main.js.map": "/Birthday-reminder-app/static/js/runtime-main.1590976c.js.map",
+    "static/js/2.bf1168d8.chunk.js": "/Birthday-reminder-app/static/js/2.bf1168d8.chunk.js",
+    "static/js/2.bf1168d8.chunk.js.map": "/Birthday-reminder-app/static/js/2.bf1168d8.chunk.js.map",
+    "index.html": "/Birthday-reminder-app/index.html",
+    "static/css/main.c0f932e9.chunk.css.map": "/Birthday-reminder-app/static/css/main.c0f932e9.chunk.css.map",
+    "static/js/2.bf1168d8.chunk.js.LICENSE.txt": "/Birthday-reminder-app/static/js/2.bf1168d8.chunk.js.LICENSE.txt",
+    "static/media/anshay.94b87e87.jpeg": "/Birthday-reminder-app/static/media/anshay.94b87e87.jpeg",
+    "static/media/ayush.e528a093.jpeg": "/Birthday-reminder-app/static/media/ayush.e528a093.jpeg",
+    "static/media/female_avtar.63c6d787.png": "/Birthday-reminder-app/static/media/female_avtar.63c6d787.png",
+    "static/media/hareesh.83c933db.jpeg": "/Birthday-reminder-app/static/media/hareesh.83c933db.jpeg",
+    "static/media/hritvik.38450d1b.jpeg": "/Birthday-reminder-app/static/media/hritvik.38450d1b.jpeg",
+    "static/media/male_avtar.a1d161e9.png": "/Birthday-reminder-app/static/media/male_avtar.a1d161e9.png",
+    "static/media/nagababu.0e21d530.jpeg": "/Birthday-reminder-app/static/media/nagababu.0e21d530.jpeg",
+    "static/media/nithish.d11be9b5.jpeg": "/Birthday-reminder-app/static/media/nithish.d11be9b5.jpeg",
+    "static/media/phani.66946409.jpeg": "/Birthday-reminder-app/static/media/phani.66946409.jpeg",
+    "static/media/prafful.7b024f21.jpeg": "/Birthday-reminder-app/static/media/prafful.7b024f21.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1590976c.js",
+    "static/js/2.bf1168d8.chunk.js",
+    "static/css/main.c0f932e9.chunk.css",
+    "static/js/main.d7992e35.chunk.js"
+  ]
+}
